@@ -12,4 +12,4 @@ Dự án sử dụng một mạch chia áp cơ bản:
 ## Đồ thị Hoạt động
 Dưới đây là ảnh chụp màn hình đồ thị `brightness` khi thay đổi cường độ sáng chiếu vào LDR.
 
-![Đồ thị Teleplot LDR](teleplot_graph.png)
+![Đồ thị Teleplot LDR](dothi.png)
