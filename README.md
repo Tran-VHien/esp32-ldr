@@ -1,6 +1,6 @@
 # Dự án ESP32 Đọc Quang trở (LDR) với Teleplot
 
-Đây là một dự án PlatformIO đơn giản cho board ESP32-DOIT-DEVKIT-V1. Dự án thực hiện việc đọc giá trị analog (0-4095) từ một quang trở (LDR) và gửi dữ liệu qua cổng UART.
+Dự án này đọc giá trị ánh sáng tương đối từ cảm biến quang trở (LDR) thông qua bộ chuyển đổi ADC của ESP32, sau đó gửi dữ liệu qua UART để hiển thị đồ thị thời gian thực bằng Teleplot trong VS Code.
 
 Tiện ích **Teleplot** trong VS Code được sử dụng để bắt dữ liệu này và vẽ đồ thị cường độ sáng theo thời gian thực.
 
