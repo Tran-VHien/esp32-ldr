@@ -5,7 +5,7 @@
 void setup() {
   Serial.begin(115200);  // Mở UART để gửi dữ liệu
   delay(1000);
-  Serial.println("Bắt đầu đo ánh sáng...");
+  Serial.println("ESP32 LDR Reader - Sẵn sàng!");
 }
 
 void loop() {
